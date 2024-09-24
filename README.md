@@ -1,0 +1,1 @@
+# mangabuff-scrabble
